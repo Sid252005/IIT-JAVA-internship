@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+E:\SUNBEAM\Java\SUNBEAM_JAVA_PROJECT P\SUNBEAM_JAVA_PROJECT\Demo1\.metadata\.plugins\org.eclipse.jdt.core
